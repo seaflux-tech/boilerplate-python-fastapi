@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "Boilerplate FastAPI"
+version = "0.1.0"
+description = "Boilerplate FastAPI"
+authors = ["seaflux.tech"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+uvicorn = "^0.20.0"
+SQLAlchemy = "^2.0.21"
+psycopg2 = "^2.9.9"
+fastapi = "^0.105.0"
+python-dotenv = "^0.20.0"
+passlib = "^1.7.4"
+python-jose = "^3.3.0"
+bcrypt = "^4.0.1"
+cryptography = "^39.0.0"
+Jinja2 = "^3.1.2"
+python-i18n = "^0.3.9"
+python-multipart = "^0.0.6"
+pydantic = { version = "^2.5.2", extras = ["email"] }
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,17 @@
+{
+    "en": {
+      "SUCCESS": "Success",
+      "FAILURE": "Failure",
+      "UNAUTHORIZED": "You are unauthorized",
+      "USER_NOT_FOUND":"User not found",
+      "USER_ALREADY_EXIST": "User already exist",
+      "USER_DOES_NOT_EXIST": "User does not exist",
+      "USER_CREATED": "User Created",
+      "USER_UPDATED": "User Updated",
+      "USER_DELETED": "User Deleted",
+      "INVALID_CREDENTIAL": "Invalid Credentials",
+      "INVALID_EMAIL": "Invalid email",
+      "INVALID_MOBILE": "Invalid Mobile",
+      "INVALID_PASSWORD": "Invalid Password"
+    }
+  }
